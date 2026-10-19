@@ -23,4 +23,5 @@ TypeScript · React · Python · Django · MCP · LLM agents · Playwright
 ## Elsewhere
 
 - LinkedIn: [cosimo-franco](https://www.linkedin.com/in/cosimo-franco/)
+- X: [@CosimoCosimo95](https://x.com/CosimoCosimo95)
 - Company: [spoki.com](https://spoki.com)
